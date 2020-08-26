@@ -13,5 +13,5 @@ For the past recent i was working on web developmnt and Built this website for o
 3. Treatment.
 4. Contactus.
 
-check the Demo here: https://abhishekbandi.github.io/gangahomeopathy.github.io/
+check the Demo here: https://abhishekbandi.github.io/hospital.github.io/
 
